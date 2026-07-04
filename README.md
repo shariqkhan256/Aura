@@ -1,18 +1,66 @@
-# aura
+# 🎙️ Aura
 
-A new Flutter project.
+> A modern AI-powered Text-to-Speech (TTS) application built with Flutter that converts written text into natural-sounding speech through a clean and intuitive user interface.
 
-## Getting Started
+<p align="center">
+  <img src="assets/banner.png" alt="Aura Banner" width="100%">
+</p>
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📖 Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Aura is a cross-platform Flutter application that transforms text into high-quality speech using Text-to-Speech technology. The application focuses on providing a smooth, accessible, and user-friendly experience with customizable voice settings.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Aura" 
-"# Aura" 
+Whether you're listening to articles, practicing pronunciation, or improving accessibility, Aura provides a simple and elegant solution.
+
+---
+
+## ✨ Features
+
+- 🎤 Convert text into natural speech
+- 🌍 Multiple language support
+- 🗣️ Multiple voice selection
+- ⚡ Fast speech generation
+- 🎚 Adjustable speech rate
+- 🔊 Volume control
+- 🎼 Pitch adjustment
+- 📱 Beautiful Material UI
+- 🌙 Clean and responsive interface
+- 🚀 Cross-platform (Android & Flutter supported)
+
+---
+
+## 🏗️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| Flutter | Cross-platform UI |
+| Dart | Programming Language |
+| Flutter TTS | Text-to-Speech Engine |
+| Material Design | UI Components |
+
+---
+
+## 📂 Project Structure
+
+lib/
+│
+├── screens/
+├── widgets/
+├── services/
+├── models/
+├── utils/
+└── main.dart
+
+---
+
+## ⚙️ Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/shariqkhan256/Aura.git
+cd Aura
+flutter pub get
+flutter run
