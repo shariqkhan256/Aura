@@ -38,17 +38,26 @@ Whether you're listening to articles, practicing pronunciation, or improving acc
 
 ---
 
+
 ## 📂 Project Structure
 
-lib/
-│
-├── screens/
-├── widgets/
-├── services/
-├── models/
-├── utils/
-└── main.dart
-
+```text
+Aura/
+├── android/
+├── ios/
+├── lib/
+│   ├── models/
+│   ├── screens/
+│   ├── services/
+│   ├── utils/
+│   ├── widgets/
+│   └── main.dart
+├── assets/
+│   ├── images/
+│   └── icons/
+├── pubspec.yaml
+└── README.md
+```
 ---
 
 ## ⚙️ Installation
