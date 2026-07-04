@@ -2,10 +2,6 @@
 
 > A modern AI-powered Text-to-Speech (TTS) application built with Flutter that converts written text into natural-sounding speech through a clean and intuitive user interface.
 
-<p align="center">
-  <img src="assets/banner.png" alt="Aura Banner" width="100%">
-</p>
-
 ---
 
 ## 📖 Overview
